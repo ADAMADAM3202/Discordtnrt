@@ -1,0 +1,64 @@
+.sss{
+ background-color: black;
+
+ opacity: 0.4;
+  width:1536px;
+height:70px;
+
+background-color:black;
+}
+* {
+margin: 0%;
+padding: 0%;
+font-family: cursive;
+
+}
+.stss{
+
+margin-top: 40%;
+
+}
+p{
+
+    color: white;
+    text-align: center;
+font-family: cursive;
+}
+h1{
+    color: white;
+    font-family: Cursive;
+ text-align: center;
+}
+h3{
+
+text-align: center;
+
+    color: white;
+}
+table{
+
+
+
+
+    border-color: black;
+}
+
+body{
+
+
+
+
+
+  background: url(asrdsd.jpg) 
+}
+h3{
+
+
+
+
+
+    text-decoration: none;
+}
+/*
+<a href="#" style="margin-bottom: 2px; margin-left: 94%;"><input type="submit" value="İletişim"></a> 
+*/
