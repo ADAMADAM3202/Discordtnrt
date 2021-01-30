@@ -60,6 +60,19 @@ h3{
 
     text-decoration: none;
 }
+.kolon{
+background-color: #0f1b57;
+transition-property:;
+
+	transition: height 1s;
+}
+.kolon:hover{
+
+
+	height: 400px;
+	background-color: black;
+	
+}
 /*
 <a href="#" style="margin-bottom: 2px; margin-left: 94%;"><input type="submit" value="İletişim"></a> 
 */
